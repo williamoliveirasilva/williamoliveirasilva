@@ -11,8 +11,8 @@
 - 🎨 Design de Interfaces  
 - 🔍 Pesquisa de Usuários e Experiência  
 - 🛠️ Prototipagem e Testes de Usabilidade
-- - 💡 Código criativo para arte e design gráfico
-- - 💻 Desenvolvimento de Software  
+- 💡 Código criativo para arte e design gráfico
+- 💻 Desenvolvimento de Software  
 
 ### Linguagens e Tecnologias
 
