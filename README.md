@@ -4,7 +4,7 @@
 
 - 👨‍💻 Estudante de Ciência da Computação na UNIFESP  
 - 🌟 Entusiasta de UX/UI Design  
-- 🎓 Bacharel em Ciências e Tecnologia
+- 🎓 Bacharel em Ciência e Tecnologia
 
 ## O Que Eu Faço
 
