@@ -1,4 +1,4 @@
-# Ólá! Pode me chamar de Will 👋
+# Olá! Pode me chamar de Will** 👋
 
 ## Sobre mim
 
@@ -13,6 +13,7 @@
 - 🛠️ Prototipagem e Testes de Usabilidade
 - 💡 Código criativo para arte e design gráfico
 - 💻 Desenvolvimento de Software  
+
 
 ### Linguagens e Tecnologias
 
@@ -30,6 +31,10 @@
 <a target="_blank" rel="noreferrer"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvJYByKHwcQo4ZB6vEczxO0ygtiXYxsoCUMg5vMhYjrnppcZbrsUVuw-iUvVzD5AXRwu-yeDV_g4MQ_0gfKJWocF_K_lGAAnD4BtIk7MISePgjjsDHtheBMV1S5-XhHZA1wg4itCCHBbQji2nw6OYZxtebJac1KRNhleZqFUOOWN5sReaOIq6fGzgMoU8/s320/photoshop.pngg" alt="photoshop" width="60" height="60"/> </a> 
 <a target="_blank" rel="noreferrer"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYS7Q4u097hNGIflQ1YCYcZGGpb_OIZq3CsNdON301-jNMDiQkmLnh7V9ia2yeYvcp2AQ4ygwFzuulGMbp5nlHiP3Z3SDcqTqXRAVRwXx8rXhNM6cmrn_g8P-rXvNHAHH1tB_AUpDddVLKLtyjgFB4Dld7LainM07T9CKO6_0OV6R84Eirg1kuBDtCM4E/s320/xd.png" alt="adobe xd" width="60" height="60"/> </a> 
 <a target="_blank" rel="noreferrer"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilmgjhXReU-y6pN55XDukG4KjndpdAUrPV5Bj_LjZCConctMlGivWiKme4Bjd6WJmEHH-eTAibY-3mYLvwPjMWQbgSAVvL-egwCyEezOiOi2FddaPUkMuzIAsDRUbjPP1EbVftD59Wli9ek3NDobtF40x7KLMX0niTOwoe7Y43Z7gENhJ3Ou9GalG_9OY/s320/protopie.png" alt="Protopie" width="60" height="60"/> </a> 
-  
 
-### Vamos construir algo juntos? 
+---
+
+
+### Vamos construir algo juntos? •᎑•
+
+<a target="_blank" rel="noreferrer"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpWoT47fxCRzqCb7VB8sd6FIasyeWlTfryYLTmfbH5aKXYTno7ifNmo44WELbW8inkTYYR3uNKwNFIwCXGHIvBKzszxpnft9SGosqgaqaRnyctwivTr3KBJ6Jumjwz21eeanJvKDdCI3ITBZrUZk0zFwoK6JmncYfYEcEuP9tfijXGTAAcB8kleVdyjto/s1600/cat.gif" alt="Protopie" width="90" height="90"/> </a> 
