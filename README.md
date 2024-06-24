@@ -1,4 +1,4 @@
-# Olá! Pode me chamar de Will** 👋
+# Olá! Pode me chamar de Will 👋
 
 ## Sobre mim
 
