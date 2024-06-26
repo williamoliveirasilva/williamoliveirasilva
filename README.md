@@ -9,7 +9,7 @@
 ## Sobre mim
 
 - 👨‍💻 Estudante de Ciência da Computação na UNIFESP  
-- 🌟 Entusiasta de UX/UI Design  
+- 🌟 Apaixonado em UX/UI Design  
 - 🎓 Bacharel em Ciência e Tecnologia
 
 ## O Que Eu Faço
