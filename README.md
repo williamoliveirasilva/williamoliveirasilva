@@ -23,6 +23,11 @@
 
 ## Ferramentas & Linguagens 
 
+| Programação | Design |
+|----------|----------|
+| <a target="_blank" rel="noreferrer"> <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjTL83D-iZseZTeWeyJcOoBqoYvVOqULWE-Es-ph5IvGIBEI36XnwAkfv8fbtuzM9pKDXOkzmSUfLLZZ2X8nZF7Qq7eTGYYYaG1Q8jr0AgT8X8HpbxayIZnQ75sPMYf-d5WOG_aTyaqsjv7AyEd_SLGX5qIlXpnGmGGP93A6tdnydercOyMfibmb0FXrug" alt="Processing 4" width="50" height="50"/> </a> 
+<a target="_blank" rel="noreferrer"> <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhJ9G-85JGA7LLJcb-pZ6FPr1FMa1ZJxjR_v2Un7JIik1jR1BemWJMTrgKopU8Bz_B2RbM9VAjnfh62LSnq9WN3Qro9gpsxcVyTC1QsjCt7v7nJdnKue6X7W35uFBY_yFzStHdgn8MOq550U0nJQHMTOeqrIwjvEP4zt0l2L2-4hUxINn1UQ6RNn9skNWA" alt="c" width="50" height="50"/> </a>   | Valor 2  |
+
 ### Programação
 
 <a target="_blank" rel="noreferrer"> <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjTL83D-iZseZTeWeyJcOoBqoYvVOqULWE-Es-ph5IvGIBEI36XnwAkfv8fbtuzM9pKDXOkzmSUfLLZZ2X8nZF7Qq7eTGYYYaG1Q8jr0AgT8X8HpbxayIZnQ75sPMYf-d5WOG_aTyaqsjv7AyEd_SLGX5qIlXpnGmGGP93A6tdnydercOyMfibmb0FXrug" alt="Processing 4" width="50" height="50"/> </a> 
